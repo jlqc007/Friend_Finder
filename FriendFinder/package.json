@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinderduh!",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "friend",
+    "finder"
+  ],
+  "author": "jlqc007",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
